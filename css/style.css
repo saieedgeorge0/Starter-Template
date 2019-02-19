@@ -11,7 +11,7 @@ a {
 .byme {
     position: absolute;
     right: 200px;
-    bottom: 10px;
+    bottom: -20px;
     font-weight: 200;
 }
 
